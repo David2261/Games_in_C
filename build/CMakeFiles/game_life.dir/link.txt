@@ -1,0 +1,1 @@
+/usr/bin/cc -std=c11 -Wall -Wextra -Werror -D_GNU_SOURCE -rdynamic CMakeFiles/game_life.dir/GameOfLife/game_of_life.c.o -o game_life  -lm 

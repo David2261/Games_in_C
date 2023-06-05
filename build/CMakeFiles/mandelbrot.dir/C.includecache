@@ -1,0 +1,16 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/home/bulat/Games_in_C/Mandelbrot/mandelbrot.c
+stdlib.h
+-
+stdio.h
+-
+stdint.h
+-
+

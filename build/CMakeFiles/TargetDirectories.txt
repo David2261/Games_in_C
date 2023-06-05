@@ -1,0 +1,5 @@
+/home/bulat/Games_in_C/build/CMakeFiles/rebuild_cache.dir
+/home/bulat/Games_in_C/build/CMakeFiles/edit_cache.dir
+/home/bulat/Games_in_C/build/CMakeFiles/donut.dir
+/home/bulat/Games_in_C/build/CMakeFiles/mandelbrot.dir
+/home/bulat/Games_in_C/build/CMakeFiles/ping_pong.dir

@@ -1,0 +1,24 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/home/bulat/Games_in_C/PolishNotation/det.c
+stdio.h
+-
+stdlib.h
+-
+math.h
+-
+
+/home/bulat/Games_in_C/PolishNotation/invert.c
+stdio.h
+-
+stdlib.h
+-
+math.h
+-
+

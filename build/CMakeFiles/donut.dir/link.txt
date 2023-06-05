@@ -1,0 +1,1 @@
+/usr/bin/cc -std=c11 -Wall -Wextra -Werror -D_GNU_SOURCE -rdynamic CMakeFiles/donut.dir/Donut/main.c.o -o donut  -lm 
